@@ -1,0 +1,30 @@
+{
+  "ticket: 4": {
+    "ticketId": 4,
+    "userId": 3,
+    "eventId": 2,
+    "category": "STANDARD",
+    "place": 40
+  },
+  "ticket: 2": {
+    "ticketId": 2,
+    "userId": 2,
+    "eventId": 1,
+    "category": "BAR",
+    "place": 20
+  },
+  "ticket: 3": {
+    "ticketId": 3,
+    "userId": 1,
+    "eventId": 3,
+    "category": "PREMIUM",
+    "place": 30
+  },
+  "ticket: 1": {
+    "ticketId": 1,
+    "userId": 1,
+    "eventId": 1,
+    "category": "STANDARD",
+    "place": 10
+  }
+}

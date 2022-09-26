@@ -1,0 +1,17 @@
+{
+  "user: 3": {
+    "userId": 3,
+    "name": "Jorge Lopez",
+    "email": "jorgea@gmail.com"
+  },
+  "user: 1": {
+    "userId": 1,
+    "name": "Mario Reyes",
+    "email": "mario@gmail.com"
+  },
+  "user: 2": {
+    "userId": 2,
+    "name": "Vanessa Cuevas",
+    "email": "vanesa@gmail.com"
+  }
+}
